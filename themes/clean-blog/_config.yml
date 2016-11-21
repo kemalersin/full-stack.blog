@@ -3,7 +3,7 @@ menu:
   Ana Sayfa: /
   Arşiv: /archives
   Github:
-    url: https://github.com/klugjo/hexo-theme-clean-blog
+    url: https://github.com/kemalersin/full-stack.blog
     icon: github
 
 # Title on top left of menu. Leave empty to use main blog title
@@ -38,7 +38,7 @@ favicon:
 twitter_url: https://twitter.com/kemal_ersin
 twitter_handle: kemal_ersin
 facebook_url: https://facebook.com/kemalersinyilmaz
-github_url: https://github.com/klugjo/hexo-theme-clean-blog
+github_url: https://github.com/kemalersin
 gitlab_url:
 linkedin_url: https://www.linkedin.com/in/kemal-e-yılmaz-a00447120
 mailto:
