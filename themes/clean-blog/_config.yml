@@ -1,0 +1,44 @@
+# Header
+menu:
+  Ana Sayfa: /
+  Arşiv: /archives
+  Github:
+    url: https://github.com/klugjo/hexo-theme-clean-blog
+    icon: github
+
+# Title on top left of menu. Leave empty to use main blog title
+menu_title: Başka Bir Geliştirici Blogu
+
+# URL of the Home page image
+index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/home-bg.jpg
+
+# Default post title
+default_post_title: Untitled
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname: full-stack-blog
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics: UA-78431182-2
+
+# Addthis ID
+addthis:
+
+# set your own favicon
+favicon:
+
+# Social Accounts
+twitter_url: https://twitter.com/kemal_ersin
+twitter_handle: kemal_ersin
+facebook_url: https://facebook.com/kemalersinyilmaz
+github_url: https://github.com/klugjo/hexo-theme-clean-blog
+gitlab_url:
+linkedin_url: https://www.linkedin.com/in/kemal-e-yılmaz-a00447120
+mailto:
