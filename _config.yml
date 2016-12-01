@@ -69,6 +69,9 @@ theme: clean-blog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/kemalersin/full-stack.blog.git
+  repo: git@github.com:kemalersin/full-stack.blog.git
   branch: gh-pages
   message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
+  
+admin:
+  deployCommand: './hexo-deploy.sh'  
